@@ -1,3 +1,4 @@
+# Using wxbot from wechatbot-webhook to get local weather information via python to push to wechat
 Project dependency https://github.com/danni-cool/wechatbot-webhook
 # 1. Import the module:
 
